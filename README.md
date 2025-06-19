@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 ### Interests
 - Cybersecurity, particularly in web applications and networking
 - Visual design, game design and development
+- Robotics
